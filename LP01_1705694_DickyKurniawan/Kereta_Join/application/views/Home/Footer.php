@@ -46,7 +46,7 @@
     <!-- Footer Elements -->
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3 bg-dark text-white">© 2019 Copyright:
+    <div class="footer-copyright text-center py-3 bg-primary text-white">© 2019 Copyright:
       <p>Dicky Kurniawan
       1705694</p>
     </div>
