@@ -10,7 +10,7 @@
     <title>Kereta</title>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-warning sticky-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
         <span class="navbar-toggler-icon"></span>
       </button>
